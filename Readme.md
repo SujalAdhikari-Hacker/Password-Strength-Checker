@@ -33,7 +33,7 @@ A powerful and secure Python-based command-line tool to evaluate the strength of
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/password-strength-checker.git
+git clone https://github.com/SujalAdhikari-Hacker/Password-Strength-Checker.git
 cd password-strength-checker
 ✅ Ensure the common_passwords.txt file is in the same directory as the script.
 
